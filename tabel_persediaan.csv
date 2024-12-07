@@ -1,0 +1,21 @@
+id_persediaan,id_produksi,jumlah_stok,tanggal_masuk,lokasi_gudang
+1,1,100,2024-01-06,Gudang A
+2,2,200,2024-01-11,Gudang B
+3,3,150,2024-01-16,Gudang C
+4,4,120,2024-01-21,Gudang A
+5,5,180,2024-01-26,Gudang D
+6,6,210,2024-02-02,Gudang B
+7,7,170,2024-02-06,Gudang C
+8,8,130,2024-02-11,Gudang A
+9,9,190,2024-02-16,Gudang D
+10,10,220,2024-02-21,Gudang B
+11,11,160,2024-02-26,Gudang C
+12,12,140,2024-03-02,Gudang A
+13,13,200,2024-03-06,Gudang D
+14,14,230,2024-03-11,Gudang B
+15,15,175,2024-03-16,Gudang C
+16,16,150,2024-03-21,Gudang A
+17,17,210,2024-03-26,Gudang D
+18,18,240,2024-03-31,Gudang B
+19,19,180,2024-04-06,Gudang C
+20,20,160,2024-04-11,Gudang A
